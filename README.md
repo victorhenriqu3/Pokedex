@@ -9,14 +9,21 @@ Projeto inspirado na Icônica Pokedex e seus 151 Pokémons iniciais da 1ª Tempo
 
 # Inspiração do Projeto
 
-O Projeto foi realizado seguindo o tutorial [" Aplicação com JavaScript puro: Como desenvolver uma pokedex"](https://www.youtube.com/watch?v=Uptu3NrBFBM) do [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg). fazendo algumas implementaçãos diferentes.
+O Projeto foi realizado seguindo o tutorial ["Aplicação com JavaScript puro: Como desenvolver uma pokedex"](https://www.youtube.com/watch?v=Uptu3NrBFBM) do [Roger Melo](https://www.youtube.com/channel/UCmjDevp9Y8r-qi-xueD3Izg). fazendo algumas implementaçãos diferentes.
 A principal delas foi a utilização das sprites vindas da própria [PokéAPI](https://pokeapi.co), que são fornecidas em ótima resolução, além da criação de um padrão de cor para os pokémons do tipo "Ghost" que senti falta.
 
 ## Links importantes
 
+- [Link de Demonstração da Pokedex](https://victorhenriqu3.github.io/Pokedex/)
 - [PokéAPI](https://pokeapi.co)
 - [Documentação da Fetch API ](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch)
 - [Documentação para Promises no Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+
+## Demonstração do Projeto:
+
+<br/>
+<img src="https://imgur.com/Es4atpZ" alt="Gif da Demonstração do Projeto"/>
+<br/>
 
 ## Autor:
 
